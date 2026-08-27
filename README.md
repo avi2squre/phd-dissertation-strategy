@@ -4,7 +4,7 @@
 
 This repository is the canonical shared workspace for evaluating and developing dissertation research programs for a PhD in Health Informatics.
 
-ChatGPT and Claude serve as independent research analysts working from the same evidence and project state.
+Multiple independent analysis streams may contribute to the same evidence base and project state.
 
 The objective is not merely to identify an interesting dissertation topic. The objective is to identify a research program that optimizes across:
 
@@ -25,13 +25,13 @@ The objective is not merely to identify an interesting dissertation topic. The o
 
 GitHub is the source of truth.
 
-Neither ChatGPT nor Claude should treat its own previous conversation memory as authoritative when it conflicts with the current repository.
+No individual analysis stream should treat its own prior discussion history as authoritative when it conflicts with the current repository.
 
-## Model independence
+## Analytical independence
 
-ChatGPT and Claude should analyze the evidence independently.
+Independent analyses should evaluate the evidence on their own merits.
 
-Do not automatically converge simply because the other model reached a particular conclusion.
+Do not automatically converge simply because another analysis reached a particular conclusion.
 
 Explicitly identify:
 
