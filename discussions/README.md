@@ -2,12 +2,15 @@
 
 This directory stores important excerpts or exports from substantive discussions relevant to dissertation strategy.
 
-Recommended paths:
+Use neutral numbered discussion streams:
 
 - `discussions/discussion_01/`
 - `discussions/discussion_02/`
+- `discussions/discussion_03/`
 
-Additional discussion streams can be added using the same neutral numbering convention.
+The mapping between numbered discussion streams and the tools/platforms used to generate them is intentionally not recorded in the repository. Keep that mapping outside GitHub.
+
+Additional discussion streams can be added later using the same neutral numbering convention (`discussion_04`, `discussion_05`, etc.).
 
 Archive discussions that contain:
 
