@@ -8,9 +8,9 @@ This file records important accepted decisions and unresolved disagreements.
 
 **Status:** ACCEPTED
 
-**Decision:** GitHub, rather than either AI model's conversational memory, is the canonical source of truth for the dissertation-strategy project.
+**Decision:** GitHub, rather than any individual discussion or analysis history, is the canonical source of truth for the dissertation-strategy project.
 
-**Rationale:** ChatGPT and Claude have independent contexts and may otherwise diverge.
+**Rationale:** Independent analysis streams may have different contexts and may otherwise diverge.
 
 ---
 
@@ -40,8 +40,8 @@ This file records important accepted decisions and unresolved disagreements.
 
 ---
 
-## DEC-005 — Preserve model disagreement rather than forcing consensus
+## DEC-005 — Preserve independent disagreement rather than forcing consensus
 
 **Status:** ACCEPTED
 
-**Decision:** ChatGPT and Claude should analyze independently. Significant disagreements should be documented and investigated rather than averaged away.
+**Decision:** Independent analyses should be conducted separately. Significant disagreements should be documented and investigated rather than averaged away.
