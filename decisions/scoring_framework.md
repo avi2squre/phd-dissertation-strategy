@@ -58,4 +58,4 @@ Once a strong advising team exists, small differences in advisor fit should not 
 - Do not add new methodological components to a candidate midway through comparison.
 - If a materially different combination is proposed, create it as a separate candidate program.
 - Record uncertainty and score ranges when evidence is weak.
-- Do not average ChatGPT and Claude scores mechanically; investigate meaningful disagreements first.
+- Do not average independent analysis scores mechanically; investigate meaningful disagreements first.
