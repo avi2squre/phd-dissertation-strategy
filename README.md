@@ -6,7 +6,11 @@ This repository is the canonical shared workspace for evaluating and developing 
 
 Multiple independent analysis streams may contribute to the same evidence base and project state.
 
-The objective is not merely to identify an interesting dissertation topic. The objective is to identify a research program that optimizes across:
+The project uses two distinct evaluation layers.
+
+### Layer 1 — Internal strategic evaluation
+
+Internal dissertation selection may consider the full set of scientific, professional, and practical objectives, including:
 
 - scientific importance and novelty
 - publication feasibility
@@ -20,6 +24,26 @@ The objective is not merely to identify an interesting dissertation topic. The o
 - advisor fit at the University of Minnesota
 - complementarity with Dr. Rui Zhang
 - feasibility given available data, compute, infrastructure, and time
+
+These criteria are used to decide which research directions are strategically worth pursuing and comparing.
+
+### Layer 2 — Faculty-facing scientific evaluation
+
+Materials prepared for research discussions with faculty should focus on the scientific research program rather than the user's private career-optimization criteria. Faculty-facing materials should emphasize:
+
+- scientific significance
+- novelty and unresolved research gaps
+- methodological depth
+- research questions and potential contributions
+- feasibility and tractability
+- available data, compute, infrastructure, and collaborators
+- rigorous evaluation strategies and failure modes
+- generalizability beyond a narrow application
+- coherence as a multi-study dissertation program
+- advisor, lab, and institutional expertise/resources
+- major scientific uncertainties
+
+Publication venues may be included when scientifically useful. Publication velocity, citation optimization, specialized-visa strategy, labor-market optimization, AI-proofing, and startup potential should remain internal unless they arise naturally as relevant scholarly or translational considerations.
 
 ## Canonical-state rule
 
