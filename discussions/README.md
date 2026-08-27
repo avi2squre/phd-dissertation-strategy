@@ -1,11 +1,13 @@
 # Discussion Archive
 
-This directory stores important excerpts or exports from ChatGPT and Claude conversations that contain substantive reasoning relevant to dissertation strategy.
+This directory stores important excerpts or exports from substantive discussions relevant to dissertation strategy.
 
 Recommended paths:
 
-- `discussions/chatgpt/`
-- `discussions/claude/`
+- `discussions/discussion_01/`
+- `discussions/discussion_02/`
+
+Additional discussion streams can be added using the same neutral numbering convention.
 
 Archive discussions that contain:
 
