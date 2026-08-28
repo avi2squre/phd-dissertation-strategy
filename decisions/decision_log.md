@@ -45,3 +45,25 @@ This file records important accepted decisions and unresolved disagreements.
 **Status:** ACCEPTED
 
 **Decision:** Independent analyses should be conducted separately. Significant disagreements should be documented and investigated rather than averaged away.
+
+---
+
+## DEC-006 — Separate internal strategic selection from faculty-facing scientific discussion
+
+**Status:** ACCEPTED
+
+**Decision:** The project will maintain two evaluation layers. Internal dissertation selection may use the full strategic framework, including publication strategy, citation/adoption potential, career resilience, transferable skills, labor-market relevance, commercialization, specialized-visa portfolio value, advisor fit, and execution feasibility. Faculty-facing materials will focus on scientific significance, novelty, methodological depth, research-program coherence, feasibility, rigorous evaluation, generalizability, local expertise/resources, and unresolved scientific uncertainties.
+
+**Rationale:** The broader strategic criteria are legitimate inputs to the user's personal dissertation decision, but they are not all useful or appropriate for an exploratory scientific discussion with research faculty. Keeping the layers separate allows faculty expertise to be used where it is most informative while preserving the broader decision objectives internally.
+
+---
+
+## DEC-007 — Maintain a structured literature archive with reasoning provenance
+
+**Status:** ACCEPTED
+
+**Decision:** Scholarly literature that materially informs dissertation brainstorming, candidate definitions, novelty claims, methodological recommendations, comparisons, or faculty-facing statements should be cataloged in `literature/`. Substantively used sources should be traceable through a provenance chain from source to extracted claim to discussion/analysis to candidate program and, when applicable, to accepted decision.
+
+**Rationale:** The project should preserve not only conclusions and discussion history but also the scientific sources underlying those arguments. A structured literature archive makes cross-analysis more reproducible, reduces citation drift, helps distinguish source-supported findings from project inference, and allows future reviewers to reassess the evidence behind a recommendation.
+
+**Implementation:** Use `literature/index.md` as the master registry and `literature/records/` for structured source notes. Avoid storing copyrighted full-text PDFs unless storage and redistribution are clearly permitted; normally preserve citations, stable identifiers/links, structured notes, and project-relevant claims instead.
