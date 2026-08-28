@@ -90,6 +90,27 @@ Prefer evidence roughly in this order:
 
 Industry evidence may establish market demand or operational pain points, but it does not by itself establish scientific novelty.
 
+## Literature archive and evidence provenance
+
+Scientific and scholarly literature used during brainstorming and candidate development should be cataloged in `literature/`.
+
+The project should preserve the following provenance chain whenever practical:
+
+`source -> extracted claim -> discussion/analysis -> candidate program -> decision`
+
+Use:
+
+- `literature/index.md` as the master scholarly-literature registry
+- `literature/records/` for structured notes on substantively used papers and articles
+- `evidence/` for distilled claims used in comparisons
+- `discussions/` for the reasoning history
+- `analysis/` for independent synthesis and critique
+- `decisions/` for accepted project state
+
+A paper being mentioned does not automatically make it accepted evidence. Sources used for substantive claims should be checked at an appropriate depth, and novelty or field-saturation claims should not be inferred from a single paper.
+
+Do not store copyrighted full-text PDFs in the repository unless storage/redistribution is clearly permitted. Prefer stable identifiers, official or open-access links, and structured source notes.
+
 ## Candidate-definition rule
 
 Do not change the definition of a candidate dissertation program while ranking it.
