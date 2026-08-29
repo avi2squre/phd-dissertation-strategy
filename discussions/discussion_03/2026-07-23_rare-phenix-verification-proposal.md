@@ -43,6 +43,17 @@ Two properties follow. The count is a within-family inverse document frequency, 
 
 **Circularity, stated concretely.** Verification against a disease anchor presupposes the thing extraction is meant to establish. The class-based design reduces this (the anchor is a family, not a diagnosis) but does not remove it: it still assumes the patient's disease is in the class. Both annotation regimes (literal versus propagated ontology annotations) were traced and gave the right answer in the running example, which is one example, not evidence.
 
+## The complementary thread: context identification (2026-07-23, archived 2026-08-28)
+
+The same night produced design principles for the context-identification direction (the clinical collaborator's five dimensions), which verification cannot supply:
+
+- **Context detection must run upstream of standardization, because standardization is lossy.** By the time Module 2 sees the string, the negation cue is gone. (Inference.)
+- **Label negated findings; do not delete them.** An explicitly absent finding is diagnostically valuable. Review cannot verify polarity: negation is a fact about the note, not about biology. (Inference.)
+- **Hedged assertions need a data-structure extension.** A triplet has three slots and nowhere to put the clinician's certainty; LIT-002 attaches confidence to edges, but to the evidence supporting a claim, not to the clinician's certainty in asserting it. Related problem, different object. (Inference; pointed to as where a real contribution could sit.)
+- **Correction preserved:** the stream first suggested the graph schema's phenotype-absent relation as a slot for negation, then corrected itself: that relation likely encodes disease-level biological absence, not note-level negation.
+
+This thread also created a new dependency the stream named at the time: the composed design now rests on context detection being accurate, which is itself unverified. It is the bridge from this entry to the trajectory entry's modality argument.
+
 ## Key excerpts
 
 > **Stream 03:** The constraint, stated precisely: Review needs both slots of a triplet to resolve to graph nodes. The head is fine — it's an HPO term. The problem is only ever the tail. So the brainstorm is really: what else could go in the tail slot?
@@ -66,7 +77,9 @@ Two properties follow. The count is a within-family inverse document frequency, 
 
 ## Status
 
-Untested proposal. No implementation, no data run. The design questions still open: whether literal or propagated annotations are used; how to distinguish "wrong mapping" from "poorly annotated ultra-rare disease" among flagged terms; and whether the precomputed matrix reduces to a lookup, which it does not, because Review scores structural position rather than literal edges.
+Untested proposal. No implementation, no data run. The design questions still open: whether literal or propagated annotations are used; how to distinguish "wrong mapping" from "poorly annotated ultra-rare disease" among flagged terms; and whether the precomputed matrix reduces to a lookup, which it does not, because Review scores structural position rather than literal edges (the lookup-versus-Review comparison itself was identified as a missing ablation the paper never runs, and remains an open empirical question).
+
+One further open question, added 2026-08-06 when the user's challenge strengthened the proposal's case: of LIT-003's linguistic-variation false negatives, what fraction had the correct term present in Module 2's retrieved top-ten candidates? That single number sets the ceiling on what any verification step inserted at Module 2 can recover, and it is answerable with the paper's released code.
 
 ## Relevance to candidates
 
