@@ -4,9 +4,9 @@ This directory reconstructs the substantive dissertation-strategy reasoning of d
 
 ## Status
 
-**STAGE 2 PROVENANCE RECONSTRUCTION COMPLETE FOR USER REVIEW.**
+**COMPLETE ENOUGH FOR CROSS-STREAM ANALYSIS.**
 
-This stream is not yet released for cross-stream analysis. The human checkpoint remains active until the user approves the local archival commit.
+The reviewed Stream 02 provenance has been integrated into `main` and released for later cross-stream analysis. No cross-stream analysis is performed in this archival integration step.
 
 ## Primary source
 
@@ -77,4 +77,4 @@ Faculty reasoning is limited to public roles, official eligibility rules, method
 
 ## Relationship to canonical state
 
-Nothing in this directory changes `decisions/`, fills `candidate_programs/`, or starts `analysis_02/`. Later synthesis may compare this reconstruction with other streams only after the user releases the human checkpoint.
+Nothing in this directory changes `decisions/`, fills `candidate_programs/`, or starts `analysis_02/`. The stream is released for later cross-stream analysis; this archival integration does not itself perform that analysis.
