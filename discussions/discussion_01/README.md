@@ -6,14 +6,17 @@ This directory reconstructs the substantive historical reasoning in discussion s
 
 ## Primary provenance
 
-- Primary historical source through 2026-08-28: a 173-page export of the same discussion thread, generated 2026-08-28.
+- Primary historical source through its export cutoff on 2026-08-28: a 173-page export of this same discussion thread, generated 2026-08-28.
 - Continuation after the export cutoff: the same live discussion thread through 2026-08-30.
 - Canonical repository files are used only to corroborate current project state and stable literature IDs, not to rewrite historical reasoning.
 - No separate earlier stream-01 dissertation-strategy conversation is presently known.
+- This is a bounded-source statement, not a claim that every dissertation-relevant idea the user encountered elsewhere is represented here.
 
 ## Independence rule
 
-This reconstruction was produced without reading the substantive entries of `discussion_02` or `discussion_03`. Structural repository conventions and the shared literature registry were allowed. The purpose is to preserve stream 01's own reasoning before cross-stream comparison.
+Stream 01 is reconstructed from its own primary historical sources rather than from the conclusions of other discussion streams. During the dedicated reconstruction pass, substantive `discussion_02` and `discussion_03` entries were not used as evidentiary sources for Stream 01's historical reasoning.
+
+**Qualification:** before this reconstruction began, the Stream 01 system had already been exposed in the live conversation to summaries and portions of material from Streams 02 and 03 while helping coordinate their archival workflows. Complete epistemic isolation therefore cannot be claimed. The reconstruction mitigates this by grounding Stream 01 claims in the 173-page Stream 01 export and this thread's continuation, and by not importing another stream's conclusions as Stream 01 historical reasoning.
 
 ## Evidentiary labels used
 
