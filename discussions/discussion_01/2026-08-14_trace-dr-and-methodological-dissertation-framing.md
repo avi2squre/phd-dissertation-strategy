@@ -4,6 +4,8 @@
 
 This entry reconstructs the first substantive dissertation-direction episode in the available Stream 01 source. It began as a request for a model Preliminary Written Examination (PWE) proposal and became an early dissertation-strategy exercise.
 
+TRACE-DR was selected by Stream 01 as the topic of that exemplar in response to the user's requested strategic constraints. It was not selected by the user or accepted as the dissertation direction.
+
 ## User-stated requirements
 
 The user asked for a technically ambitious Health Informatics topic that could support a strong doctoral portfolio, durable technical skills, transferability beyond healthcare, strong publication potential, local advisor complementarity, and meaningful translational value. These internal strategic requirements were broader than the criteria that would later be considered appropriate for faculty-facing discussion.
@@ -37,9 +39,9 @@ The intended contribution was deliberately framed as more than "an LLM for healt
 
 The argument was that the scientific contribution should survive replacement of the underlying foundation model because the methodological object was the auditable reasoning-and-validation pipeline rather than a particular model or prompt.
 
-## Dissertation-coherence principle that emerged
+## Dissertation-coherence concern raised in the episode
 
-While explaining how a strong PWE should be defended, Stream 01 raised a more consequential question about TRACE-DR itself:
+While explaining how a strong PWE should be defended, Stream 01 raised a consequential question about TRACE-DR itself:
 
 > Is this one scientific thesis, or several sophisticated projects placed next to each other?
 
@@ -50,9 +52,26 @@ The discussion explicitly anticipated committee questions such as:
 - If the biomedical KG already contains a relation, what is the system actually discovering?
 - What single scientific thesis connects KG reasoning, causal inference, and agent evaluation?
 
-### Later implication
+### Later generalization from this episode
 
-This became an important general rule for later candidate design: technical breadth is not sufficient. A dissertation program needs one central methodological claim whose aims test different aspects of the same claim.
+The August 14 discussion established the underlying coherence concern: a technically broad proposal still needs a defensible central scientific thesis connecting its aims. Later Stream 01 discussions generalized this into a candidate-design rule: technical breadth alone is insufficient; each dissertation program should be organized around one central methodological claim whose aims test different aspects of that claim.
+
+## Transition from exemplar to dissertation methodology
+
+After the exemplar was produced, the discussion shifted from the content of TRACE-DR itself toward the reusable reasoning process behind a defensible doctoral proposal:
+
+research area
+→ unresolved problem
+→ literature gap
+→ central hypothesis
+→ specific aims
+→ experiments
+→ statistical tests
+→ anticipated results
+→ failure contingencies
+→ dissertation contribution
+
+This transition is why the PWE exercise became relevant to later dissertation-topic selection rather than remaining merely an exam-preparation artifact.
 
 ## Publication and artifact logic
 
