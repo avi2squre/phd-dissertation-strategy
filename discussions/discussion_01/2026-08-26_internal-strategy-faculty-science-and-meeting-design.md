@@ -20,15 +20,17 @@ A provisional structure was:
 
 The meeting was framed as an uncertainty-reduction exercise rather than an attempt to obtain immediate approval of a final dissertation topic.
 
+The initial recommendation already cautioned against foregrounding specialized-visa optimization. However, it still allowed several broader strategic considerations, such as long-term translational/commercial value and career durability, to appear too close to the faculty-facing selection philosophy.
+
 ## User challenge
 
-The user questioned whether criteria such as labor-market relevance, commercialization, startup potential, citation optimization, and specialized-visa portfolio value should appear in the faculty-facing packet at all.
+The user then quoted the broader internal criteria being used in the repository and questioned whether items such as labor-market relevance, commercialization/startup potential, citation optimization, and specialized-visa portfolio value should appear in the faculty-facing discussion at all.
 
 The user argued that those considerations were useful for choosing which directions to investigate internally, while the faculty discussion should focus on the science.
 
 ## Later correction or qualification
 
-Stream 01 agreed and explicitly changed the earlier recommendation.
+Stream 01 agreed and explicitly tightened the earlier recommendation.
 
 This produced the project's **two-layer strategy**.
 
@@ -70,7 +72,7 @@ It should not foreground private optimization criteria that do not help faculty 
 
 ## Scientifically legitimate proxy questions
 
-Stream 01 identified an important way to preserve useful information without exposing the private objective function.
+Stream 01 identified an important way to ask scientifically legitimate questions whose answers also inform internal strategy, without presenting the private objective function as the faculty's decision criterion.
 
 Instead of asking a faculty member which topic is best for the labor market, ask:
 
@@ -85,7 +87,7 @@ Instead of asking which topic has the best startup potential, ask:
 
 - Which problem represents a consequential unresolved translational bottleneck?
 
-These are legitimate scientific questions whose answers also inform internal strategy.
+These questions are scientifically legitimate in their own right; the fact that their answers may also inform private strategy does not convert the faculty meeting into a career-optimization exercise.
 
 ## Faculty-facing candidate presentation
 
@@ -159,4 +161,4 @@ The two-layer distinction was then encoded into the repository architecture and 
 
 ### Correction worth preserving
 
-The initial faculty-packet recommendation included too many private strategic criteria. The user's objection materially improved the communication strategy and produced the explicit internal/faculty separation later treated as a project rule.
+The initial faculty-packet recommendation was already partly cautious about private criteria, but the user's objection exposed that the boundary was still too permissive. The later correction made the separation explicit: broad strategic optimization belongs backstage, while faculty-facing materials should be dominated by scientific and execution questions.
