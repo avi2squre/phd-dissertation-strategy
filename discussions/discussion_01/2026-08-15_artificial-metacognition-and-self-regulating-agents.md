@@ -2,17 +2,38 @@
 
 ## Historical role
 
-Artificial metacognition entered Stream 01 after the user independently found the METACOG-26 symposium. The symposium was treated as a field signal and source of terminology rather than as proof that a dissertation gap existed.
+Artificial metacognition entered Stream 01 after the user independently found the METACOG-26 symposium page. The symposium was treated as a field signal and source of terminology rather than as proof that a dissertation gap existed.
+
+The historical sequence matters: this was a short exploratory episode following the neuro-symbolic discussion, not yet a mature dissertation proposal.
 
 ## User-stated input
 
-The user shared the symposium page for future dissertation brainstorming. The timing made immediate submission unrealistic, so the event's primary role became conceptual: it provided a vocabulary for AI systems that monitor and regulate their own behavior.
+The user shared the symposium page for future dissertation brainstorming. The timing made immediate submission unrealistic, so the event's primary role became conceptual rather than deadline-driven.
+
+### Historical Stream 01 judgment about the deadline
+
+Stream 01 explicitly advised against allowing the nearby symposium deadline to distort topic selection. The event was treated as a signal that the area warranted investigation, not as a reason to force a paper or prematurely define the dissertation around it.
+
+## What the symposium page contributed
+
+The symposium page identified topics including:
+
+- AI agents with metacognition;
+- metacognitive rule learning;
+- neuro-symbolic architectures for metacognition;
+- self-adaptive and self-repairing systems;
+- abductive inference and consistency-based verification;
+- trust calibration and human-AI teaming;
+- benchmarks and evaluation methodology;
+- health and decision-support applications.
+
+These are claims about the symposium's scope, not scientific evidence that any of these approaches are effective or novel.
 
 ## Stream 01 interpretation
 
-Stream 01 distinguished artificial metacognition from ordinary explainability, confidence scoring, uncertainty quantification, or out-of-distribution detection.
+Stream 01 interpreted artificial metacognition as potentially broader than ordinary explainability, confidence scoring, uncertainty quantification, or out-of-distribution detection because the symposium framed it around monitoring and regulation of an AI system's own behavior.
 
-The historical interpretation was that a metacognitive system would do more than estimate uncertainty. It could represent and act on information about its own reasoning state, for example:
+The historical interpretation was that a metacognitive system might do more than estimate uncertainty. It could represent and act on information about its own reasoning state, for example:
 
 - recognizing that evidence is incomplete;
 - detecting conflict between neural inference and structured knowledge;
@@ -22,13 +43,13 @@ The historical interpretation was that a metacognitive system would do more than
 - escalating to a human or another process;
 - modifying its reasoning strategy or computational allocation.
 
-## Connection to neuro-symbolic AI
+This was a conceptual interpretation, not an experimentally established distinction between metacognition and uncertainty-based control.
 
-The symposium topics explicitly included neuro-symbolic architectures for metacognition, metacognitive rule learning, self-adaptation, consistency checking, abductive inference, trust calibration, and evaluation methodology.
+## Connection to neuro-symbolic AI
 
 Stream 01 therefore proposed a potentially distinctive intersection:
 
-**agentic AI + neuro-symbolic reasoning + artificial metacognition + biomedical decision support**
+**agentic AI + neuro-symbolic reasoning + artificial metacognition + causal verification + biomedical decision support**
 
 ### Hypothesis / untested proposal
 
@@ -70,7 +91,7 @@ The broader discussion increasingly treated metacognition as a possible mechanis
 
 ## Relationship to later Stream 01 reasoning
 
-This episode supplied one of the five conceptual components later used in the trustworthy-autonomous-systems reframing:
+This episode supplied one conceptual component later used in the trustworthy-autonomous-systems reframing:
 
 - agentic AI: coordinates tools and multistep workflows;
 - neural AI: interprets heterogeneous information;
