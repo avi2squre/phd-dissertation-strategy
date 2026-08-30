@@ -6,12 +6,13 @@ Raw discussion is supporting evidence, not canonical project state. Nothing in t
 
 ## Provenance
 
-Stream 03 comprises several conversation threads on one platform. Entries derive from four processed thread exports:
+Stream 03 comprises several conversation threads on one platform. Entries derive from five processed thread exports:
 
 1. A thread of 2026-03-15 to 2026-04-11 (exported 2026-07-23): the early direction era.
 2. A thread of 2026-06-10 to 2026-07-21 (exported 2026-07-23): the direction funnel. This thread retrieves, from stream memory, a 2026-06-05 session whose own export has not been processed (see provenance gaps).
 3. The main thread of 2026-07-21 to 2026-08-28 (exported 2026-08-28): the close readings, the cohort work, and the August strategy discussions, plus the working documents produced in it (two journal-club decks, a rare-disease cohort report, and a proposal to insert verification into a phenotyping pipeline).
-4. A short continuation thread of 2026-08-28, which performed the initial archival.
+4. A single-session thread of 2026-07-28 (exported 2026-08-30): the evaluation-and-assurance brainstorm.
+5. A short continuation thread of 2026-08-28, which performed the initial archival.
 
 Dates in filenames are the dates of the underlying exchanges (the last date where an entry spans a period), not the archiving date. Entries archived on 2026-08-28 from the pre-repository threads state their archiving date in their headers; their reasoning predates the repository's rules, and evidentiary labels were applied at archiving time without upgrading any claim.
 
@@ -38,6 +39,7 @@ Additionally, excerpts from the pre-repository threads were selected under these
 | `2026-07-13_direction-funnel-niches-to-aim1.md` | 2026-06-05 to 07-13 | The funnel from five ranked niches through the turning-point meeting (tool as byproduct; evidence rigor as delta), the build-to-read reversal, the drug-design provenance correction and deliberate domain deferral, the Aim-1-only directive, and the two-talk arc with LIT-003 as spine | Families 1, 2, 4, 5; Candidate 03; `current_rankings.md`; advisor landscape |
 | `2026-07-23_kgarevion-verification-analysis.md` | 2026-07-21 to 07-23 | Close reading of LIT-001: the Review mechanism, the failed explanations for Revise, the determinism argument, and the limitations found | Candidate 02, Candidate 04, family 5 (KG + LLM reasoning) |
 | `2026-07-23_rare-phenix-verification-proposal.md` | 2026-07-22 to 07-23 (amended 08-28) | The gap identified in LIT-003 and the proposal to insert graph verification into its standardization step, including the anchor constraint and the class-based verification design; the complementary context-identification design principles; two open empirical questions added on 08-06 | Candidate 02, Candidate 04 |
+| `2026-07-28_evaluation-and-assurance-brainstorm.md` | 2026-07-28 | Direction A (evaluation and assurance of clinical AI agents): the criteria reconstruction, the user's release of the repurposing anchor, the commercialization demotion of drug development, the group-examples analysis, the four instantiations A1 to A4, the comparison, and the contingent recommendation (A2 spine, A3 second thrust, A4 applied aim) with its three unanswered spine questions | Candidate 04, Candidate 01, Candidate 02; `current_rankings.md` ranks 1 and 4 |
 | `2026-08-06_hegtkg-and-two-paper-synthesis.md` | 2026-08-03 to 08-06 | Close reading of LIT-002, comparison with LIT-004, and the verify-after versus supply-before synthesis of LIT-001 and LIT-002 | Candidate 02, Candidate 04 |
 | `2026-08-06_independent-verification-workflow.md` | 2026-08-05 to 08-06 | The deliberate operationalization of the papers' generation-cannot-verify-itself principle as the project's standing working method (explore, consolidate, audit, verify, revise; implementer/execution/auditor for code) | Candidate 01, Candidate 04; DEC-005 |
 | `2026-08-20_neurosymbolic-framing-and-advisor-sequencing.md` | 2026-08-20 | Whether "neurosymbolic AI" is a dissertation direction; the narrower framing proposed; sequencing of direction versus advisor; a disagreement with `context/advisor_landscape.md` | Candidate 02, `current_rankings.md` rank 2, advisor landscape |
@@ -54,9 +56,10 @@ Additionally, excerpts from the pre-repository threads were selected under these
 
 ## Not yet archived from this stream (provenance gaps)
 
-1. **The evaluation-and-assurance brainstorm ("Direction A", instantiations A1 to A4).** A separate thread in this stream, titled "Top health informatics PhD programs research overview," developed in late July 2026 a candidate direction (evaluation and assurance of clinical AI agents) with four instantiations. Its export has not been processed, so it is not archived here. Secondhand traces exist (a screenshot fragment and a cross-stream critique inside another stream's archive) and were deliberately not used as sources, to preserve stream independence. It should be archived from its own export before it is used in any candidate definition.
-2. **The 2026-06-05 session** that produced the five-niche reassessment. The funnel entry relies on the stream's own 2026-06-10 retrieval of it; the session's export has not been processed.
+1. **The 2026-06-05 session** that produced the five-niche reassessment. The funnel entry relies on the stream's own 2026-06-10 retrieval of it; the session's export has not been processed. This gap is judged minor: the retrieval was contemporaneous, is quoted in the funnel entry with its provenance caveat stated, and the rankings it carried were superseded within the same archived thread.
+
+The Direction A brainstorm, previously listed here as gap 1, was archived on 2026-08-30 from its own thread export (`2026-07-28_evaluation-and-assurance-brainstorm.md`). One chronological correction was made in the process: earlier descriptions of that brainstorm as "later" than the August entries were wrong; it precedes them by three weeks. The trajectory entry's cross-reference was corrected accordingly.
 
 ## Completeness
 
-With the four 2026-08-28 additions, this stream's processed threads are archived to the level the stage-2 instruction requires: proposed directions, arguments, objections, revisions, mistakes and corrections, ranking changes, advisor and publication reasoning, and unresolved questions are represented with chronology and evidentiary labels preserved. The stream is **not yet complete enough for cross-stream analysis**, for one reason: the Direction A brainstorm (gap 1 above) is a substantive candidate-direction development that remains unarchived, and any cross-stream synthesis would encounter it through another stream's critique without this stream's primary record. Once that entry exists, cross-stream reading can begin.
+With the 2026-08-28 additions and the 2026-08-30 archival of the Direction A brainstorm, this stream's substantive dissertation-strategy reasoning is archived from primary exports: proposed directions, arguments, objections, revisions, mistakes and corrections, ranking changes, advisor and publication reasoning, and unresolved questions are represented with chronology and evidentiary labels preserved. The remaining gap (the 2026-06-05 session) is documented and judged non-blocking. Stream 03 is now **COMPLETE ENOUGH FOR CROSS-STREAM ANALYSIS**. Cross-stream readers should note that this stream's record and another stream's critique of the Direction A proposal are independent documents; reconciling them is stage-5 work, not something either record does itself.

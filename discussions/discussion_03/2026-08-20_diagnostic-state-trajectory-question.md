@@ -50,6 +50,6 @@ Untested question. No literature search has been done on modality and diagnostic
 ## Relevance to candidates
 
 - **Candidate 02:** the neural-modality plus symbolic-state design is a direct instance.
-- **Candidate 01 (trustworthy agentic AI):** an agent tracking a patient's diagnostic state over time is a longitudinal belief-revision problem; a later brainstorm in this stream (not yet archived) developed this as an evaluation instantiation.
+- **Candidate 01 (trustworthy agentic AI):** an agent tracking a patient's diagnostic state over time is a longitudinal belief-revision problem. A brainstorm in a separate thread of this stream three weeks *earlier* (2026-07-28, since archived as `2026-07-28_evaluation-and-assurance-brainstorm.md`, instantiation A1) had already formulated longitudinal belief revision as an evaluation question; this entry's trajectory question is its clinically grounded counterpart, arrived at from the collaborator's input without citing that session. The original cross-reference here called the brainstorm "later" before its export was processed; the corrected chronology is as stated, and the connection between the two is an archival observation.
 - **Candidate 04:** whether a system's belief about diagnostic state tracks the record's resolution is an evaluable property with a natural ground truth (the later test result).
 - **Candidate 03 (causal / real-world evidence):** cohort definition is upstream of any real-world-evidence claim; this question is the cohort-definition problem stated precisely.
