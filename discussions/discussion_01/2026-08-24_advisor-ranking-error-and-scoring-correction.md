@@ -25,6 +25,10 @@ Stream 01 explicitly acknowledged that the reranking was methodologically invali
 
 The revised #1 was therefore not the same candidate as the earlier #4.
 
+### Scope of the correction
+
+The correction did **not** mean advisor quality, mentorship, or local execution conditions were unimportant. The error was allowing advisor-team advantage to distort a comparison after all leading candidates already appeared to pass a basic feasibility threshold, while simultaneously changing one candidate's scientific definition.
+
 ### Core methodological lesson
 
 **Candidate definitions must be frozen before comparative scoring.**
@@ -45,6 +49,8 @@ A candidate should first answer whether there is a plausible advising configurat
 - sufficient methodological support to complete a PhD-scale program.
 
 A severe failure here can eliminate or strongly penalize a candidate.
+
+"Plausible" here refers to methodological and institutional feasibility based on available information. It is not evidence of a faculty member's willingness or future availability.
 
 ### Stage B — differential advisor-team advantage
 
@@ -74,9 +80,9 @@ Stream 01 proposed a hierarchical framework:
 
 ### Weighted comparison second
 
-An illustrative later weighting assigned advisor-team advantage only a modest share of the score after feasibility was established. This historical move later informed the canonical scoring framework.
+An illustrative later weighting assigned advisor-team advantage only a modest share of the score after feasibility was established. The discussion moved from the earlier rough 10–15% suggestion toward an illustrative value near 4% once feasibility had already been screened.
 
-The exact numerical weight is a project decision, not established evidence.
+The exact numerical weight was a planning judgment, not scientific evidence, and later became a canonical project decision only through the repository's decision process.
 
 ## Fixed-category reranking
 
