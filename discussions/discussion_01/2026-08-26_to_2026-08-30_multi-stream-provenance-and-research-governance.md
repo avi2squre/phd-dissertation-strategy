@@ -119,6 +119,14 @@ This episode reinforced:
 
 These ideas were later formalized in the operating protocol.
 
+## Analytical-independence workflow evolved
+
+The earliest multi-stream workflow proposed having each analysis stream read all three archived discussions and then independently synthesize them. That preserved disagreement but still allowed one stream's framing to anchor another before its own first-pass candidate generation.
+
+The workflow was later tightened: for high-consequence dissertation decisions, each stream should first produce its own analysis from the shared factual/canonical context **before** reading the other streams' conclusions. Only after those first-pass analyses are frozen should deliberate cross-review begin.
+
+This is an important correction. The mature blind-first-pass rule should not be projected backward as though it governed the initial August 26 proposal.
+
 ## Frontier-model efficiency protocol
 
 Repeated large-corpus rereads and multi-agent extraction runs revealed a second problem: significant model computation could be spent remembering the project rather than advancing the research.
@@ -148,7 +156,9 @@ The optimization target was summarized as:
 
 The earliest repository work allowed direct writes to canonical state more readily.
 
-The workflow later became stricter:
+Stream 03 was integrated using a more direct write-and-verify pattern. During Stream 02, the process became stricter and introduced a reviewable local/remote branch checkpoint before canonical integration.
+
+The mature workflow became:
 
 research/provenance reconstruction
 → isolated review branch or local candidate commit
