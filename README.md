@@ -51,6 +51,10 @@ GitHub is the source of truth.
 
 No individual analysis stream should treat its own prior discussion history as authoritative when it conflicts with the current repository.
 
+## Operating protocol for analysis systems
+
+`OPERATING_PROTOCOL.md` defines how any AI analysis system should allocate its computation here: progressive context retrieval, no routine rereading of raw exports or the full repository, stream independence during first-pass analysis, compute scaled to decision consequence, and human checkpoints. Read it once at onboarding. It governs process only and changes no scientific decision, ranking, or provenance record.
+
 ## Analytical independence
 
 Independent analyses should evaluate the evidence on their own merits.

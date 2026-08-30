@@ -67,3 +67,13 @@ This file records important accepted decisions and unresolved disagreements.
 **Rationale:** The project should preserve not only conclusions and discussion history but also the scientific sources underlying those arguments. A structured literature archive makes cross-analysis more reproducible, reduces citation drift, helps distinguish source-supported findings from project inference, and allows future reviewers to reassess the evidence behind a recommendation.
 
 **Implementation:** Use `literature/index.md` as the master registry and `literature/records/` for structured source notes. Avoid storing copyrighted full-text PDFs unless storage and redistribution are clearly permitted; normally preserve citations, stable identifiers/links, structured notes, and project-relevant claims instead.
+
+---
+
+## DEC-008 — Adopt OPERATING_PROTOCOL.md as the canonical process protocol
+
+**Status:** ACCEPTED
+
+**Decision:** `OPERATING_PROTOCOL.md` is the canonical, provider-neutral protocol governing how analysis systems allocate computation in this repository. It governs process only: it changes no scientific decision, ranking, candidate definition, scoring criterion, evidence item, literature interpretation, or provenance record. Material changes to the protocol require user approval and an explicit decision-log update.
+
+**Rationale:** Frontier-model computation should be spent on scientific reasoning rather than on reconstructing historical context, rereading already-processed exports, or redundant orchestration. A single canonical protocol prevents each new analysis session from re-deriving working rules, while DEC-005 and the protocol's own independence rules preserve genuinely independent reasoning for consequential decisions.

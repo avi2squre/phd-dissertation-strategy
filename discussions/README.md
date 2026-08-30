@@ -25,3 +25,5 @@ Archive discussions that contain:
 Casual conversation does not need to be archived.
 
 Raw discussion is supporting evidence, not the canonical project state. Accepted decisions belong in `decisions/decision_log.md`.
+
+Once a stream's README marks it COMPLETE ENOUGH FOR CROSS-STREAM ANALYSIS, its structured entries substitute for rereading the raw exports in routine work; raw exports stay primary provenance and are reopened only under the escalation triggers in `OPERATING_PROTOCOL.md` (rules 1, 3, and 6).
