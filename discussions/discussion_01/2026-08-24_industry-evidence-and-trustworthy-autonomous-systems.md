@@ -27,7 +27,7 @@ Historically salient reported findings included:
 - growing experimentation with multiagent workflows;
 - emphasis on end-to-end workflow redesign rather than disconnected point solutions.
 
-These were used as market/operational signals, not as proof that a dissertation research gap existed.
+These were historical report findings used as market/operational signals, not independently revalidated scientific results and not proof that a dissertation research gap existed.
 
 ## Academic signals used historically
 
@@ -37,7 +37,7 @@ The discussion referenced several contemporary scholarly sources now identified 
 - `LIT-031`: an evidence map of clinical AI agents, used to support the view that clinical translation remained early and concentrated substantially in administrative/care-adjacent workflows;
 - `LIT-032`: dynamic red-teaming of medical LLMs, used to motivate the idea that static benchmark performance can conceal severe reliability failures under adaptive stress.
 
-The historical discussion did not conduct a systematic review of autonomous-agent research.
+The historical discussion did not conduct a systematic review of autonomous-agent research. These sources supported a provisional reframing, not a verified saturation conclusion.
 
 ## Shift in the top-level research framing
 
@@ -48,6 +48,8 @@ Stream 01 increasingly preferred a broader scientific problem:
 **Trustworthy autonomous AI systems for high-stakes workflows**
 
 with neuro-symbolic reasoning, metacognition, causal inference, provenance, and evaluation treated as possible mechanisms rather than mandatory ingredients.
+
+A related provisional identity that emerged in the discussion was **Trustworthy Intelligent Systems for Autonomous Decision-Making**. This was an umbrella for exploration, not a frozen dissertation definition.
 
 ### Conceptual decomposition
 
@@ -73,6 +75,10 @@ Stream 01 produced a provisional ranking, explicitly not final:
 5. biomedical KG + LLM reasoning;
 6. conventional clinical prediction / diagnostic LLMs;
 7. administrative automation as commercially attractive but academically weaker unless methods were novel.
+
+### Scope of this ranking
+
+This was not a pure scientific ranking. It combined scientific opportunity with several internal strategic considerations then in use, including publication potential, career durability, cross-industry transferability, commercialization potential, and advisor/resource considerations. The later two-layer framework would separate those internal criteria from faculty-facing scientific assessment.
 
 ### Stream 01 strategic judgment
 
