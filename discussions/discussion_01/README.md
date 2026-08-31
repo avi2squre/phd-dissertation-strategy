@@ -55,6 +55,4 @@ Named faculty appear only when the discussion relied on public methodological ex
 
 ## Completeness status
 
-**STATUS: COMPLETE FOR USER REVIEW; NOT YET RELEASED FOR CROSS-STREAM ANALYSIS.**
-
-Proposed release criterion: after independent review of the review branch/package, confirmation that consequential corrections are preserved, and canonical integration approval, this stream may be marked **COMPLETE ENOUGH FOR CROSS-STREAM ANALYSIS**.
+**STATUS: COMPLETE ENOUGH FOR CROSS-STREAM ANALYSIS.**
