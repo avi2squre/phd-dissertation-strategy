@@ -1,6 +1,7 @@
 # Stream 03, Day 1: Blind Independent Generation of Candidate Dissertation Research Directions
 
-- **Date:** 2026-08-30
+- **Date:** 2026-08-31
+- **METADATA-ONLY PROVENANCE CORRECTION (2026-08-31):** the analysis-execution/freeze date and the advisor-profile fetch date were initially misrecorded in this header as 2026-08-30; corrected to 2026-08-31 per deterministic git and filesystem evidence (branch created 2026-08-31 14:39 US Central; freeze commit ec538e9 at 14:57 the same day). No candidate identity, scientific object, thesis, evidence interpretation, source, aim, advisor judgment, verdict, critical uncertainty, portfolio conclusion, or scientific reasoning changed.
 - **Repository SHA used:** `86230f478b0a47a0198adbe325c42b0561fe8288` (`main` at analysis start; artifact written on branch `analysis03/day1-blind`)
 - **Status:** FROZEN — BLIND FIRST PASS. Immutable for Day 1. Later reconsideration belongs in a separate cross-review artifact.
 
@@ -16,7 +17,7 @@
 
 **Terminology:** per the task specification, the unit below is the *candidate dissertation research direction*. Evidence labels used: *Source-supported finding*, *Cross-paper inference*, *Preliminary gap hypothesis*, *Proposed research hypothesis*, *Unverified assumption*.
 
-**Common-specification clarification (received before freezing, incorporated):** Section 14 of each candidate names plausible University of Minnesota IHI primary-advisor matches, with Dr. Rui Zhang treated as the external/complementary advisor, per the canonical advisor constraint and DEC-002. Faculty facts below come from official institute profile pages fetched 2026-08-30 (healthinformatics.umn.edu/staff/genevieve-melton-meaux, /staff/constantin-aliferis, /staff/erich-kummerfeld, /staff/gyorgy-simon, /staff/serguei-pakhomov) and from documented public project roles archived in this stream's provenance; the institute's full directory page could not be fetched today (404 at two candidate URLs), so coverage of additional faculty may be incomplete. All fit statements are inferences from public research descriptions; **no willingness, availability, funding, or commitment is inferred for any named person.**
+**Common-specification clarification (received before freezing, incorporated):** Section 14 of each candidate names plausible University of Minnesota IHI primary-advisor matches, with Dr. Rui Zhang treated as the external/complementary advisor, per the canonical advisor constraint and DEC-002. Faculty facts below come from official institute profile pages fetched 2026-08-31 (healthinformatics.umn.edu/staff/genevieve-melton-meaux, /staff/constantin-aliferis, /staff/erich-kummerfeld, /staff/gyorgy-simon, /staff/serguei-pakhomov) and from documented public project roles archived in this stream's provenance; the institute's full directory page could not be fetched today (404 at two candidate URLs), so coverage of additional faculty may be incomplete. All fit statements are inferences from public research descriptions; **no willingness, availability, funding, or commitment is inferred for any named person.**
 
 ---
 
@@ -460,4 +461,4 @@ The user's stated interests in neuro-symbolic AI and artificial metacognition ar
 
 Four directions are specified to the required schema with primary-page-verified sources, dangerous prior art named per direction, and Day 2 falsification targets identified (LINS full text and commercial systems for C1; LIT-015, ChemoTimelines successors, and long-context abstraction for C2; MedAbstain and MedVAL full texts for C3; Labbe 2026 and any decomposition line for C4). Additional Day 1 search is unlikely to change which directions deserve adversarial review. No global novelty claim is made or implied for any direction.
 
-**STATUS: FROZEN — BLIND FIRST PASS (2026-08-30). This file is immutable for Day 1; reconsideration belongs to the cross-review stage.**
+**STATUS: FROZEN — BLIND FIRST PASS (2026-08-31). This file is immutable for Day 1; reconsideration belongs to the cross-review stage.**
