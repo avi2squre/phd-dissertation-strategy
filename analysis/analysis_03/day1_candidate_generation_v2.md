@@ -3,8 +3,12 @@
 **FORMAT-NORMALIZED DERIVATIVE OF FROZEN BLIND FIRST PASS.**
 **NO NEW SCIENTIFIC ANALYSIS PERFORMED.**
 
-- **Original frozen artifact:** `analysis/analysis_03/day1_candidate_generation.md` (authoritative blind-first-pass scientific provenance; unchanged).
-- **Original artifact commit:** `ec538e9` on branch `analysis03/day1-blind`.
+- **Original frozen artifact:** `analysis/analysis_03/day1_candidate_generation.md` (authoritative blind-first-pass scientific provenance; scientific content unchanged, metadata corrected on 2026-08-31).
+- **Provenance chain (this branch, in order):**
+  1. Original scientific freeze commit: `ec538e98fa0e1e2680a18d4bd5100c5f6141a6e6`
+  2. Format-normalization commit (this derivative): `6d0ea960b1699756f4d2b673d1514fa66e51a541`
+  3. Metadata-only provenance correction commit: `0c7d2f6ac1365a1755da765cf5c118b218baf428`
+  4. Final provenance clarification: this commit (wording only).
 - **Repository base SHA of the frozen analysis:** `86230f478b0a47a0198adbe325c42b0561fe8288`.
 - **Derivation rule compliance:** sections 2, 21, and 22 of each candidate, and the matrix rows "falsifiability / discriminating experiment" and "time to uncertainty resolution," are populated only by extracting or faithfully compressing reasoning already present in the frozen artifact. No field required the marker NOT PRESENT IN ORIGINAL FROZEN ARTIFACT.
 
@@ -525,4 +529,4 @@ Four directions are specified to the required schema with primary-page-verified 
 
 ---
 
-**Provenance restated:** this file is a format-normalized derivative of the frozen blind first pass at `analysis/analysis_03/day1_candidate_generation.md` (commit `ec538e9`). Scientific content, candidate identities, theses, aims, evidence interpretations, verdicts, and portfolio conclusions are unchanged. No new sources, searches, or scientific reasoning were introduced.
+**Provenance restated:** this file is a format-normalized derivative of the frozen blind first pass at `analysis/analysis_03/day1_candidate_generation.md` (scientific freeze commit `ec538e9`; that file's scientific content is unchanged since the freeze, with metadata corrected on 2026-08-31 in commit `0c7d2f6`). Scientific content, candidate identities, theses, aims, evidence interpretations, verdicts, and portfolio conclusions are unchanged. No new sources, searches, or scientific reasoning were introduced. Chain: scientific freeze → format-normalized derivative → metadata-only correction → final provenance clarification.
