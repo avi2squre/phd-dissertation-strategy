@@ -6,6 +6,8 @@ Before starting an analysis, read `OPERATING_PROTOCOL.md`: especially progressiv
 
 For dissertation-direction analyses that need direct cross-stream comparability, also read `analysis/COMMON_ANALYSIS_SCHEMA.md`. It defines the provider-neutral common output structure, evidentiary labels, advisor-complementarity format, portfolio comparison structure, and standardized verdict meanings. The schema standardizes presentation and triage terminology only; it does not require scientific agreement or authorize revision of a frozen blind first pass.
 
+For adversarial scientific review of normalized candidate dissertation directions, read `analysis/ADVERSARIAL_FALSIFICATION_PROTOCOL.md`. It defines the canonical Candidate Evaluation Packet requirement, evidence and citation rules, layered search and collision methodology, six kill tests, two non-kill stress tests, falsification outcomes, information-flow rules, and six-phase workflow. Phase 1 may begin only after the Phase 1 schema and the common Candidate Evaluation Packets have been approved.
+
 Recommended paths:
 
 - `analysis/analysis_01/YYYY-MM-DD_topic.md`
