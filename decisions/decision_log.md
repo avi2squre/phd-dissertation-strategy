@@ -77,3 +77,17 @@ This file records important accepted decisions and unresolved disagreements.
 **Decision:** `OPERATING_PROTOCOL.md` is the canonical, provider-neutral protocol governing how analysis systems allocate computation in this repository. It governs process only: it changes no scientific decision, ranking, candidate definition, scoring criterion, evidence item, literature interpretation, or provenance record. Material changes to the protocol require user approval and an explicit decision-log update.
 
 **Rationale:** Frontier-model computation should be spent on scientific reasoning rather than on reconstructing historical context, rereading already-processed exports, or redundant orchestration. A single canonical protocol prevents each new analysis session from re-deriving working rules, while DEC-005 and the protocol's own independence rules preserve genuinely independent reasoning for consequential decisions.
+
+---
+
+## DEC-009 — Adopt ADVERSARIAL_FALSIFICATION_PROTOCOL.md as the canonical scientific falsification protocol
+
+**Status:** ACCEPTED
+
+**Decision:** `analysis/ADVERSARIAL_FALSIFICATION_PROTOCOL.md` is the canonical, provider-neutral protocol for adversarial scientific review of normalized candidate dissertation directions. It governs Candidate Evaluation Packets, evidence and citation semantics, layered search, prior-art collision classification, six kill tests, two non-kill stress tests, candidate-level falsification outcomes, multi-stream information flow, and the controlled handoff from scientific survivor selection to later strategic optimization.
+
+Phase 1 may begin only after a common Phase 1 schema and all eight Candidate Evaluation Packets have been approved. All participating streams must evaluate the same packet version for each candidate. Strategic criteria such as compensation, employer desirability, immigration strategy, commercialization, and personal preference remain excluded from Phases 1 through 5.
+
+**Rationale:** Independent falsification is only comparable when all streams attack the same scientific target using shared definitions, evidence rules, collision rubrics, decision thresholds, and output semantics. The protocol preserves independent reasoning while preventing differences in task interpretation, search depth, citation practice, or candidate formulation from masquerading as scientific disagreement.
+
+**Change control:** Material changes to the protocol, Candidate Evaluation Packet semantics, phase gates, decision rules, or information-flow rules require user approval and an explicit decision-log update. Editorial clarifications that preserve meaning must remain traceable through ordinary repository history.
