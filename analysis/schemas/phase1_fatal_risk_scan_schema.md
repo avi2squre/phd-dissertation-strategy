@@ -1,8 +1,8 @@
 # Phase 1 Fatal-Risk Scan Schema
 
-- **Version:** Draft 0.2
-- **Date:** 2026-09-01
-- **Status:** **DRAFT — USER REVIEW REQUIRED**
+- **Version:** 1.0
+- **Date adopted:** 2026-09-01
+- **Status:** **CANONICAL — USER APPROVED**
 - **Governing protocol:** [`analysis/ADVERSARIAL_FALSIFICATION_PROTOCOL.md`](../ADVERSARIAL_FALSIFICATION_PROTOCOL.md), version 1.0
 - **Purpose:** standardize the common candidate target, minimum search coverage, evidence reporting, decision rules, package structure, and freeze procedure for the three independent Phase 1 fatal-risk scans
 
@@ -1289,16 +1289,15 @@ During Phase 1, do not:
 - produce candidate outcomes by subagent voting;
 - begin Phase 2 reconciliation or Phase 3 deep falsification.
 
-## 23. Schema readiness gate
+## 23. Phase 1 readiness gate
 
-This draft becomes operational only after:
+This schema is canonical. Phase 1 becomes operational only after:
 
-1. user approval;
-2. canonical integration into `main`;
-3. an `analysis/README.md` pointer where appropriate;
-4. creation and approval of the packet-set manifest;
-5. creation and approval of all eight Candidate Evaluation Packets;
-6. completion of independent packet-fidelity audits;
-7. confirmation that all three streams can access the same canonical commit and packet set.
+1. canonical integration of this schema into `main`;
+2. an `analysis/README.md` pointer;
+3. creation and approval of the packet-set manifest;
+4. creation and approval of all eight Candidate Evaluation Packets;
+5. completion of independent packet-fidelity audits;
+6. confirmation that all three streams can access the same canonical commit and packet set.
 
-**STATUS: DRAFT — USER REVIEW REQUIRED. NO PHASE 1 SCAN IS AUTHORIZED SOLELY BY THIS DRAFT.**
+**STATUS: CANONICAL — PHASE 1 SCHEMA. PHASE 1 LAUNCH REMAINS BLOCKED UNTIL THE PACKET-SET READINESS CONDITIONS ABOVE ARE SATISFIED.**
