@@ -46,7 +46,7 @@ analysis/candidate_packets/
 It must record:
 
 - **Packet-set version**
-- **Status:** `APPROVED - COMMON PHASE 1 TARGET SET`
+- **Status:** `APPROVED — COMMON PHASE 1 TARGET SET`
 - **Protocol version**
 - **Phase 1 schema version**
 - **Source/base repository commit**
@@ -90,7 +90,7 @@ Each packet must use the following structure.
 - **Candidate title:**
 - **Packet version:**
 - **Packet-set version:**
-- **Packet status:** `APPROVED - COMMON PHASE 1 TARGET`
+- **Packet status:** `APPROVED — COMMON PHASE 1 TARGET`
 - **Date approved:**
 - **Source/base repository commit:**
 - **Source normalization artifact:** `analysis/round3_normalization_reconciliation.md`
@@ -546,11 +546,33 @@ Deduplicate works using stable identifiers where available:
 
 Preprint and published versions of the same work should normally share one conceptual source entry with version relationships recorded, unless substantive differences require separate treatment.
 
+### 9.1 Controlled vocabularies used by candidate files
+
+Use the governing protocol's exact evidentiary-status labels:
+
+- `DIRECTLY VERIFIED FINDING`
+- `SUPPORTED SYNTHESIS`
+- `PROVISIONAL HYPOTHESIS`
+- `SEARCH NON-FINDING`
+- `UNRESOLVED`
+
+Use the governing protocol's exact source-inspection depths:
+
+1. `METADATA ONLY`
+2. `TITLE/ABSTRACT SCREENED`
+3. `RELEVANT SECTIONS INSPECTED`
+4. `FULL TEXT INSPECTED`
+5. `EMPIRICALLY REPRODUCED OR INDEPENDENTLY VALIDATED`
+
+Use one or more canonical citation roles from the governing protocol. Do not create local synonyms for evidentiary status, inspection depth, or citation role without documenting a protocol-level exception.
+
 ---
 
 # Part V - Candidate-file structure
 
 Repeat the following structure in `N1.md`, `N2.md`, `N3.md`, `N4a.md`, `N4b.md`, `N5.md`, `N6.md`, and `N7.md`.
+
+The numbered sections in Part V are **file-local** and intentionally restart at 1 inside every candidate file. Package-level governance resumes at Section 17 in Part VII.
 
 # Candidate [ID] - [Approved packet title]
 
