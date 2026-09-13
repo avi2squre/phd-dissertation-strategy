@@ -1,30 +1,34 @@
-# Independent Analysis Workspace
+# Research analysis workspace
 
-Independent analyses should be preserved here rather than overwriting one another.
+Start with [`CURRENT_STATE.md`](../CURRENT_STATE.md). It records the active, user-approved decision-oriented workflow and takes precedence over older workflow examples where DEC-010 or DEC-011 explicitly amends them.
 
-Before starting an analysis, read `OPERATING_PROTOCOL.md`: especially progressive retrieval (rule 1), the prohibition on reading another stream's conclusions before your own first pass (rule 6), and the execution-plan requirement for expensive tasks (rule 14).
+## Tool-owned analysis directories
 
-For dissertation-direction analyses that need direct cross-stream comparability, also read `analysis/COMMON_ANALYSIS_SCHEMA.md`. It defines the provider-neutral common output structure, evidentiary labels, advisor-complementarity format, portfolio comparison structure, and standardized verdict meanings. The schema standardizes presentation and triage terminology only; it does not require scientific agreement or authorize revision of a frozen blind first pass.
+| Tool | Directory | Historical stream |
+|---|---|---|
+| ChatGPT | [`ChatGPT_disst/`](ChatGPT_disst/) | Stream 01 / S01 |
+| Codex | [`Codex_disst/`](Codex_disst/) | Stream 02 / S02 / D02 |
+| Fable | [`Fable_disst/`](Fable_disst/) | Stream 03 / S03 |
 
-For adversarial scientific review of normalized candidate dissertation directions, read `analysis/ADVERSARIAL_FALSIFICATION_PROTOCOL.md`. It defines the canonical Candidate Evaluation Packet requirement, evidence and citation rules, layered search and collision methodology, six kill tests, two non-kill stress tests, falsification outcomes, information-flow rules, and six-phase workflow.
+The user requested these recognizable names to reduce accidental cross-tool file transfers. Read [`PATH_MAP.md`](PATH_MAP.md) for old-to-new paths, unchanged content fingerprints, recovered-review provenance, and local-worktree conventions. The folder label identifies a tool stream, not the model version used for every historical artifact.
 
-For Phase 1 independent fatal-risk scans, also read `analysis/schemas/phase1_fatal_risk_scan_schema.md`. It defines the canonical packet-set manifest, structured multi-file artifact package, source registry, decision-relevant claim ledger, search-counting rules, candidate-outcome hierarchy, citation audits, and freeze procedure. Phase 1 may begin only after the common packet-set manifest and all eight Candidate Evaluation Packets have been approved, audited for fidelity, and integrated into one canonical repository commit accessible to all three streams.
+Independent analyses should be preserved rather than overwritten. New detached/exported filenames should include their tool prefix; do not rename frozen historical basenames or rewrite their internal provenance merely for consistency.
 
-Recommended paths:
+## Active research work
 
-- `analysis/analysis_01/YYYY-MM-DD_topic.md`
-- `analysis/analysis_02/YYYY-MM-DD_topic.md`
+Keep the eight normalized directions in [`round3_normalization_reconciliation.md`](round3_normalization_reconciliation.md) as the incumbent set, not an exhaustive search space or a final ranking. Permit independently discovered alternatives driven by the user's research requirements and current evidence. No disease, cohort, model family, or fashionable term is preselected.
 
-Additional analysis streams can be added using the same neutral numbering convention.
+For an exploratory brief, report the scientific question, closest sources and exact contribution, strongest objection, next informative study, resource/advising assumptions, and demonstrated skill-development opportunity. Cite source-derived claims at point of use, distinguish findings from inferences, and identify what would change the next decision. Match depth to the next decision; do not make a faculty discussion conditional on completing every formal phase.
 
-Each analysis should explicitly state:
+Use independent first-pass judgments where they are decision-relevant; then use complementary evidence review and bounded rebuttal. Do not use majority vote as scientific evidence, and do not repeat procedural audits without a concrete unresolved defect.
 
-1. the question being evaluated
-2. evidence used
-3. assumptions
-4. recommendation
-5. uncertainty
-6. agreements/disagreements with other analyses, if known
-7. whether any accepted decision should be reconsidered
+## Detailed reference documents
 
-Do not force consensus. Meaningful disagreement should be investigated.
+- [`OPERATING_PROTOCOL.md`](../OPERATING_PROTOCOL.md): progressive retrieval, evidence reuse, independence, and computation proportional to consequence. Apply the current workspace and decision-oriented amendments in `CURRENT_STATE.md`.
+- [`COMMON_ANALYSIS_SCHEMA.md`](COMMON_ANALYSIS_SCHEMA.md): the historical common candidate-analysis structure and evidence distinctions.
+- [`ADVERSARIAL_FALSIFICATION_PROTOCOL.md`](ADVERSARIAL_FALSIFICATION_PROTOCOL.md): the detailed formal falsification mode.
+- [`schemas/phase1_fatal_risk_scan_schema.md`](schemas/phase1_fatal_risk_scan_schema.md): the formal Phase 1 output specification. Translate its numbered output paths using `PATH_MAP.md`.
+
+Formal Phase 1 under DEC-009 has not been launched. Its common-packet approval gate remains in force if that mode is invoked. Exploratory horizon scanning and meeting-oriented evidence briefs are a separate authorized mode under DEC-011; they are not labeled completed Phase 1 scans.
+
+Recovered Fable reviews are accessible in `Fable_disst/` as unchanged archival evidence. Their presence on main does not approve Draft 0.1 packets or establish candidate novelty, feasibility, or survival.

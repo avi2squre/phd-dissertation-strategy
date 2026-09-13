@@ -91,3 +91,31 @@ Phase 1 may begin only after a common Phase 1 schema and all eight Candidate Eva
 **Rationale:** Independent falsification is only comparable when all streams attack the same scientific target using shared definitions, evidence rules, collision rubrics, decision thresholds, and output semantics. The protocol preserves independent reasoning while preventing differences in task interpretation, search depth, citation practice, or candidate formulation from masquerading as scientific disagreement.
 
 **Change control:** Material changes to the protocol, Candidate Evaluation Packet semantics, phase gates, decision rules, or information-flow rules require user approval and an explicit decision-log update. Editorial clarifications that preserve meaning must remain traceable through ordinary repository history.
+
+---
+
+## DEC-010 — Recognizable tool-owned folders and durable workspaces
+
+**Status:** ACCEPTED, 2026-09-12, by the user in the project conversation.
+
+**Decision:** Rename the active analysis directories `analysis/analysis_01/`, `analysis/analysis_02/`, and `analysis/analysis_03/` to `analysis/ChatGPT_disst/`, `analysis/Codex_disst/`, and `analysis/Fable_disst/`. Keep historical stream IDs and frozen artifact contents unchanged. The exact path/content map and recovered-review source commits are recorded in `analysis/PATH_MAP.md`. Three recovered, already-public Fable reviews may be imported unchanged as archival evidence, not as accepted scientific conclusions.
+
+For concurrent local tasks, use separate persistent worktrees derived from a verified persistent repository, with names `<Tool>_disst_<task>`. Confirm runtime and filesystem access first. Durable preservation is a completion requirement; publishing sensitive material or merging a branch requires its own authorization. Never rely solely on a session scratch directory or remembered workspace rules.
+
+**Rationale:** The user reported an almost-incorrect cross-tool file transfer and repeated loss of temporary workspaces. Recognizable ownership and durable storage address those concrete failures.
+
+**Amendment scope:** This supersedes numbered/provider-neutral directory-name examples and blanket local-only completion practices where they conflict with this decision. Scientific rubrics remain tool-neutral. Frozen files, source commits, old branches, historical discussion directories, and model-version attribution are not rewritten. Local Finder changes require separate execution on the user's Mac; a remote migration alone does not perform them.
+
+---
+
+## DEC-011 — Decision-oriented research workflow with open-ended discovery
+
+**Status:** ACCEPTED, 2026-09-12, by the user in the project conversation following the process audit and landscape-expansion discussion.
+
+**Decision:** Use `CURRENT_STATE.md` as the current-state entry point. Preserve the eight normalized directions while permitting additional avenues discovered independently from the user's requirements and current evidence. Do not restrict discovery to topics previously named by the user or the three tools. New avenues remain provisional until evaluated; no incumbent is removed, no newcomer is selected, and no disease or method is predetermined by this decision.
+
+Match effort to the next decision: faculty discussion, bounded pilot, or dissertation commitment. Use compact evidence briefs, early faculty/resource input, and informative experiments. Independent first-pass judgment and evidence-based reconciliation remain; recursive procedural audits do not occur by default. Hypothesis results, research-direction viability, historical fidelity, and scientific validity must be distinguished. Scientific revisions must be explicitly versioned, not silently substituted into frozen artifacts. Training and execution fit may shape project choice but cannot alter factual or novelty findings.
+
+**Rationale:** The earlier workflow concentrated on validating a narrow initial search space and imposed dissertation-level process on reversible meeting-preparation decisions. The user requested a broader opportunity search without discarding the work already completed.
+
+**Relationship to DEC-008/009:** Their evidence, citation, independence, and provenance safeguards remain reference standards. DEC-011 authorizes exploratory horizon scanning and decision-oriented briefs without first completing formal Phase 1. It does not relabel those briefs as Phase 1 scans, waive formal packet approval if that mode is invoked, promote the draft packet set, alter frozen N7 or other hypotheses, or change repository visibility. Specific scientific amendments and sensitive-access decisions remain explicit later checkpoints.
