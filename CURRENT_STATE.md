@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-12. Authority: DEC-010 and DEC-011 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, and open-ended topic discovery without removing existing directions.
+Updated: 2026-09-14. Authority: DEC-010 and DEC-011 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, and open-ended topic discovery without removing existing directions.
 
 ## What is current
 
@@ -12,6 +12,7 @@ Updated: 2026-09-12. Authority: DEC-010 and DEC-011 in [`decisions/decision_log.
 | Historical identifiers | Stream 01/02/03, S01/S02/S03, D02, candidate IDs, and literature IDs retained |
 | Original Day 1 file contents | Unchanged; path migration only |
 | Three recovered Fable reviews | Imported unchanged as archival evidence; original commits/branches preserved |
+| Three preserved Codex reviews | This change archives unchanged copies under `analysis/Codex_disst/` alongside the recovered Fable reviews; original commits/branches preserved; provenance in [`analysis/PATH_MAP.md`](analysis/PATH_MAP.md) |
 | Common packet set | Draft 0.1 on its historical branch; not promoted or scientifically amended by this migration |
 | Formal Phase 1 | Not launched; common-packet readiness gate remains if formal mode is invoked |
 | Current authorized mode | Open-ended horizon scanning, concise evidence comparison, faculty feedback, and bounded pilot design |
