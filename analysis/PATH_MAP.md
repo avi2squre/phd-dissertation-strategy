@@ -37,7 +37,19 @@ Three already-public recovered reviews are copied here without changing their by
 | [`Fable_disst/candidate_packet_fidelity_audit.md`](Fable_disst/candidate_packet_fidelity_audit.md) | `be73f0e68d14690a882dd48161165f716a33ab82:analysis/analysis_03/candidate_packet_fidelity_audit.md` | `0cffe33163797306dbd6386b4f1eabbe39e85de2` |
 | [`Fable_disst/candidate_packet_reconciliation_audit.md`](Fable_disst/candidate_packet_reconciliation_audit.md) | `6e990866e1b11a5e841fa4f10b9a16b0e317ec52:analysis/analysis_03/candidate_packet_reconciliation_audit.md` | `75a7468e4bbcdbd1e09056a7d795c74bb3dc370c` |
 
-Other reviews may still exist only in separate branches or local workspaces. This table is not a claim that all three streams' historical work has been integrated.
+## Preserved Codex reviews imported as archival evidence
+
+Import date: 2026-09-14. Tool/model: Codex / GPT-6. Role: mechanical archival import. Base: `924eeb2cc3bda04fd9ea48c9e7c15ef155770d3e`.
+
+These three already-public reviews are unchanged archival copies under `analysis/Codex_disst/`. Their original branches remain preserved at the source commits below. Titles, dates, historical stream identifiers, paths mentioned inside the documents, and freeze notices are unchanged. Copying these blobs does not merge their source histories, adopt their scientific conclusions, approve packets, or launch scientific analysis.
+
+| Destination path | Original branch | Original source commit and path | Unchanged Git blob identifier | Verified SHA-256 |
+|---|---|---|---|---|
+| [`analysis/Codex_disst/round2_normalization_review.md`](Codex_disst/round2_normalization_review.md) | `codex/analysis02-round2-normalization-review` | [`21fd7d78d14c34d15e803ee6be01e3d7deb79bcd:analysis/analysis_02/round2_normalization_review.md`](https://github.com/avi2squre/phd-dissertation-strategy/blob/21fd7d78d14c34d15e803ee6be01e3d7deb79bcd/analysis/analysis_02/round2_normalization_review.md) | `440945d2bc3aa7afe3423d0c297df0e1bfa62e40` | `3c5eb5a5e7435db8cd4bf3f4fbbed9453200f4e0e9d621f8df3fb1d08aafd3c4` |
+| [`analysis/Codex_disst/candidate_packet_fidelity_audit.md`](Codex_disst/candidate_packet_fidelity_audit.md) | `codex/analysis02-packet-fidelity-audit` | [`0458a99ea5c6ea14eff6f5cf8dfb247ec642cfb3:analysis/analysis_02/candidate_packet_fidelity_audit.md`](https://github.com/avi2squre/phd-dissertation-strategy/blob/0458a99ea5c6ea14eff6f5cf8dfb247ec642cfb3/analysis/analysis_02/candidate_packet_fidelity_audit.md) | `7c551541503f6fd4dd5c4f267cd2fafcdba29d38` | `e8fdf4791bf107b327c221b2d501df20024a38380a104828a3b6d49512414840` |
+| [`analysis/Codex_disst/candidate_packet_reconciliation_audit.md`](Codex_disst/candidate_packet_reconciliation_audit.md) | `codex/analysis02-packet-reconciliation-audit` | [`57db21d29da4e99c621ce84ec555a44dcd193f22:analysis/analysis_02/candidate_packet_reconciliation_audit.md`](https://github.com/avi2squre/phd-dissertation-strategy/blob/57db21d29da4e99c621ce84ec555a44dcd193f22/analysis/analysis_02/candidate_packet_reconciliation_audit.md) | `0bcf89711d9173c9f378fd64eb58ee034be6d8ab` | `e12fc47eb800d8259e69c448128d3f79348ac2a216cca7b596bf22ff27394ea7` |
+
+Other reviews may still exist only in separate branches or local workspaces. These tables are not a claim that all three streams' historical work has been integrated.
 
 ## Compatibility and future outputs
 
