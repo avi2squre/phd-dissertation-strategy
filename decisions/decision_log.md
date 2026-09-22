@@ -119,3 +119,16 @@ Match effort to the next decision: faculty discussion, bounded pilot, or dissert
 **Rationale:** The earlier workflow concentrated on validating a narrow initial search space and imposed dissertation-level process on reversible meeting-preparation decisions. The user requested a broader opportunity search without discarding the work already completed.
 
 **Relationship to DEC-008/009:** Their evidence, citation, independence, and provenance safeguards remain reference standards. DEC-011 authorizes exploratory horizon scanning and decision-oriented briefs without first completing formal Phase 1. It does not relabel those briefs as Phase 1 scans, waive formal packet approval if that mode is invoked, promote the draft packet set, alter frozen N7 or other hypotheses, or change repository visibility. Specific scientific amendments and sensitive-access decisions remain explicit later checkpoints.
+
+
+---
+
+## DEC-012 — Disable routine grammar and writing corrections across this project
+
+**Status:** ACCEPTED, 2026-09-21, by the user in the project conversation.
+
+**Decision:** Routine grammar, spelling, punctuation, fluency, and writing-correction sections are disabled by default across all chats in this project. Do not add a `Writing check` or equivalent unless the user explicitly asks to resume grammar/writing feedback or requests it for a specific message.
+
+**Rationale:** The user explicitly requested that grammar corrections stop across all chats in this project, superseding the prior default preference for automatic writing feedback within this project only.
+
+**Scope:** This changes the communication format, not any scientific, methodological, or repository-governance decision.
