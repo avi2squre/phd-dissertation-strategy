@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-12. Authority: DEC-010 and DEC-011 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, and open-ended topic discovery without removing existing directions.
+Updated: 2026-09-21. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, and the project-wide communication preference described below.
 
 ## What is current
 
@@ -17,6 +17,7 @@ Updated: 2026-09-12. Authority: DEC-010 and DEC-011 in [`decisions/decision_log.
 | Current authorized mode | Open-ended horizon scanning, concise evidence comparison, faculty feedback, and bounded pilot design |
 | Current canonical ranking | None; `decisions/current_rankings.md` is a historical preliminary ranking, not the active eight-direction ranking |
 | Repository visibility | Not changed; private-workspace separation remains a distinct access-control task |
+| Grammar/writing corrections in this project | Disabled by default across all chats unless the user explicitly asks to resume them |
 
 ## Decision-oriented workflow
 
@@ -57,6 +58,10 @@ The current ChatGPT thread has already seen other streams' historical reviews. D
 - Before declaring completion, verify content against its recorded fingerprint at the durable destination. Do not rely only on temporary paths or agent memory.
 - Use exact current repository-relative paths and actual absolute paths for materialized local outputs. A GitHub change does not automatically update Finder.
 - Never rewrite old branches, delete archives, force-push, or silently replace scientific reasoning to make names consistent.
+
+## Project communication preference
+
+Grammar, spelling, punctuation, fluency, and writing-correction sections are disabled by default across all chats in this project. Do not add a `Writing check` or equivalent unless the user explicitly asks to resume or requests writing/grammar feedback for a specific message.
 
 ## Next checkpoint
 
