@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-23. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, and the project-wide communication preference described below.
+Updated: 2026-09-23. Authority: DEC-010 through DEC-013 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, the project-wide communication preference, and the sustainable preparation workflow described below.
 
 ## What is current
 
@@ -17,8 +17,9 @@ Updated: 2026-09-23. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/dec
 | Current authorized mode | Open-ended horizon scanning, concise evidence comparison, faculty feedback, and bounded pilot design |
 | Current canonical ranking | None; `decisions/current_rankings.md` is a historical preliminary ranking, not the active eight-direction ranking |
 | Repository visibility | Not changed; private-workspace separation remains a distinct access-control task |
-| Faculty / independent-study coordination | Erich Kummerfeld replied on 2026-09-22 and asked for availability Thursday afternoon or Friday morning to discuss. A 2-credit independent study with him remains a possibility, not an approved arrangement. |
+| Faculty / independent-study coordination | Erich Kummerfeld replied on 2026-09-22 and asked for availability Thursday afternoon or Friday morning. Avi replied on 2026-09-23 that Thursday after 1:30 PM works, with Friday before 3:00 PM as a backup. A 2-credit independent study with him remains a possibility, not an approved arrangement. |
 | Grammar/writing corrections in this project | Disabled by default across all chats unless the user explicitly asks to resume them |
+| Preparation workflow | Bounded, outcome-based preparation is the default for meetings, classes, presentations, tests, and deadlines. Protect sleep and preserve regular time for exercise, meals, chores, social life, and personal downtime; reduce scope rather than letting preparation expand indefinitely. |
 
 ## Decision-oriented workflow
 
@@ -60,6 +61,18 @@ The current ChatGPT thread has already seen other streams' historical reviews. D
 - Use exact current repository-relative paths and actual absolute paths for materialized local outputs. A GitHub change does not automatically update Finder.
 - Never rewrite old branches, delete archives, force-push, or silently replace scientific reasoning to make names consistent.
 
+## Sustainable preparation workflow
+
+Use DEC-013 as the default planning rule for PhD preparation.
+
+- Define the actual performance objective before deciding how much preparation is needed.
+- Set a bounded preparation budget and explicit readiness/stop criteria before starting.
+- Separate must-know or must-produce work from useful extras and optional perfectionism.
+- If time is tighter than initially expected, compress scope to the highest-value work rather than automatically extending work into the night.
+- Protect sleep by default and preserve recurring space for exercise, meals, chores, social activity, and personal downtime.
+- Evaluate preparation by whether the user can perform the required task, not by the number of hours spent.
+- Exact hour caps remain task-specific and may be revised from experience; they are not yet globally fixed.
+
 ## Project communication preference
 
 Grammar, spelling, punctuation, fluency, and writing-correction sections are disabled by default across all chats in this project. Do not add a `Writing check` or equivalent unless the user explicitly asks to resume or requests writing/grammar feedback for a specific message.
@@ -68,7 +81,7 @@ Grammar, spelling, punctuation, fluency, and writing-correction sections are dis
 
 Complete local workspace synchronization under the new names. Then conduct outside-in evidence exploration and compare a bounded subset of newcomers with incumbents. Existing packets and reviews remain available as research inputs, not a closed menu. Any specific scientific amendment, candidate selection, visibility change, or sensitive publication still requires an explicit decision.
 
-Near-term faculty coordination: reply to Erich Kummerfeld with availability for Thursday afternoon or Friday morning and use the meeting to assess both the possible 2-credit independent study and substantive overlap with his current work. No independent-study arrangement has yet been approved.
+Near-term faculty coordination: await Erich Kummerfeld's response to Avi's stated availability (Thursday after 1:30 PM; Friday before 3:00 PM backup) and use the meeting to assess both the possible 2-credit independent study and substantive overlap with his current work. Prepare using the bounded DEC-013 workflow rather than dissertation-scale preparation. No independent-study arrangement has yet been approved.
 
 ## Navigation
 
