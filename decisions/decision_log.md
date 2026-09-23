@@ -132,3 +132,18 @@ Match effort to the next decision: faculty discussion, bounded pilot, or dissert
 **Rationale:** The user explicitly requested that grammar corrections stop across all chats in this project, superseding the prior default preference for automatic writing feedback within this project only.
 
 **Scope:** This changes the communication format, not any scientific, methodological, or repository-governance decision.
+
+
+---
+
+## DEC-013 — Use bounded, outcome-based preparation as the default PhD workflow
+
+**Status:** ACCEPTED, 2026-09-23, by the user in the project conversation.
+
+**Decision:** For meetings, classes, presentations, tests, deadlines, and similar PhD work, preparation should be planned around the actual outcome required and a bounded time budget rather than allowing preparation time to expand until the user feels subjectively safe. Time spent is not itself treated as evidence of productivity or readiness.
+
+The default workflow should protect sleep and leave regular room for exercise, meals, chores, social activity, and personal downtime. When available preparation time is shorter than the user's initial estimate, reduce scope to the highest-value work, define explicit stop conditions, and prioritize the material most likely to affect performance. Routine preparation should not default to sacrificing sleep or consuming the entire day and following night.
+
+**Rationale:** The user explicitly identified a recurring pattern in which perceived productivity is tied to hours spent, creating panic when available time is shorter than the internally estimated preparation requirement. The user wants a more sustainable workflow that improves academic performance while reducing burnout risk and preserving a functional life outside PhD work.
+
+**Scope:** This establishes the governing preparation principle, not fixed universal hour caps for every task. Exact time budgets, readiness criteria, and task-specific checklists may be adapted to the stakes, novelty, and deliverable, and should be revised from experience rather than from anxiety alone.
