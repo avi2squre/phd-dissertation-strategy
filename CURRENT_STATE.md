@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-23. Authority: DEC-010 through DEC-013 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, the project-wide communication preference, and the sustainable preparation workflow described below.
+Updated: 2026-09-23. Authority: DEC-010 through DEC-014 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, the project-wide communication preference, the sustainable preparation workflow, and the active/archive artifact lifecycle described below.
 
 ## What is current
 
@@ -17,9 +17,11 @@ Updated: 2026-09-23. Authority: DEC-010 through DEC-013 in [`decisions/decision_
 | Current authorized mode | Open-ended horizon scanning, concise evidence comparison, faculty feedback, and bounded pilot design |
 | Current canonical ranking | None; `decisions/current_rankings.md` is a historical preliminary ranking, not the active eight-direction ranking |
 | Repository visibility | Not changed; private-workspace separation remains a distinct access-control task |
-| Faculty / independent-study coordination | Erich Kummerfeld replied on 2026-09-22 and asked for availability Thursday afternoon or Friday morning. Avi replied on 2026-09-23 that Thursday after 1:30 PM works, with Friday before 3:00 PM as a backup. A 2-credit independent study with him remains a possibility, not an approved arrangement. |
+| Faculty / independent-study coordination | Erich Kummerfeld scheduled a Zoom meeting with Avi for Thursday, 2026-09-24, 1:15–2:00 PM CDT. The meeting will assess HINF 8492 supervision/permission and substantive research overlap. A 2-credit independent study remains a possibility, not an approved arrangement. |
 | Grammar/writing corrections in this project | Disabled by default across all chats unless the user explicitly asks to resume them |
 | Preparation workflow | Bounded, outcome-based preparation is the default for meetings, classes, presentations, tests, and deadlines. Protect sleep and preserve regular time for exercise, meals, chores, social life, and personal downtime; reduce scope rather than letting preparation expand indefinitely. |
+| Active working workbooks | Keep a deliberately small active set: `PhD_Preparation_Guidelines_and_Templates.xlsx`, `Kummerfeld_Meeting_2026-09-24.xlsx`, and `IHI_Fellowship_Progress_Tracker_Sep2026_CURRENT_v3.xlsx` in the NLP Library Active folder. |
+| Archive lifecycle | Completed task workbooks are distilled for current relevance and preserved under the NLP Library Archive hierarchy. Historical artifacts remain retrievable and do not stay active merely because they contain useful background. |
 
 ## Decision-oriented workflow
 
@@ -61,6 +63,17 @@ The current ChatGPT thread has already seen other streams' historical reviews. D
 - Use exact current repository-relative paths and actual absolute paths for materialized local outputs. A GitHub change does not automatically update Finder.
 - Never rewrite old branches, delete archives, force-push, or silently replace scientific reasoning to make names consistent.
 
+## Active / archive artifact lifecycle
+
+Use DEC-014 for task-specific working artifacts.
+
+- Keep the active set small and tied to immediate execution.
+- Before archiving a completed task workbook, extract only information that still changes a current decision, short-term action, or reusable process.
+- Preserve the full historical workbook in Archive for later retrieval; do not keep it active as a substitute for current state.
+- Use the general preparation workbook as a reusable template. Derive bounded task-specific workbooks from it rather than rebuilding a large permanent dossier for every meeting.
+- Current Library structure includes `/NLP/Active/`, `/NLP/Archive/Meetings/2026-09_Gyorgy_Simon/`, and `/NLP/Archive/Fellowship_Tracker_Versions/`.
+- The available file-management tool cannot move/detach Project attachments themselves. Archive copies therefore coexist with any older attachments that may remain visible on the Project surface; this is a product-surface limitation, not an indication that those files remain operationally active.
+
 ## Sustainable preparation workflow
 
 Use DEC-013 as the default planning rule for PhD preparation.
@@ -81,7 +94,7 @@ Grammar, spelling, punctuation, fluency, and writing-correction sections are dis
 
 Complete local workspace synchronization under the new names. Then conduct outside-in evidence exploration and compare a bounded subset of newcomers with incumbents. Existing packets and reviews remain available as research inputs, not a closed menu. Any specific scientific amendment, candidate selection, visibility change, or sensitive publication still requires an explicit decision.
 
-Near-term faculty coordination: await Erich Kummerfeld's response to Avi's stated availability (Thursday after 1:30 PM; Friday before 3:00 PM backup) and use the meeting to assess both the possible 2-credit independent study and substantive overlap with his current work. Prepare using the bounded DEC-013 workflow rather than dissertation-scale preparation. No independent-study arrangement has yet been approved.
+Near-term faculty coordination: prepare for the scheduled Erich Kummerfeld Zoom meeting on Thursday, 2026-09-24, 1:15–2:00 PM CDT. Use the bounded DEC-013 workflow and the task-specific Kummerfeld workbook. The meeting should resolve whether Erich can supervise/authorize two credits of HINF 8492 and identify a scientifically useful first step if there is substantive overlap. No independent-study arrangement has yet been approved.
 
 ## Navigation
 
