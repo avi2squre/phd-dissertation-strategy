@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-23. Authority: DEC-010 through DEC-014 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, the project-wide communication preference, the sustainable preparation workflow, and the active/archive artifact lifecycle described below.
+Updated: 2026-09-23. Authority: DEC-010 through DEC-015 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, the project-wide communication preference, the sustainable preparation workflow, the active/archive artifact lifecycle, and the Chat/Codex/Work allocation strategy described below.
 
 ## What is current
 
@@ -22,6 +22,7 @@ Updated: 2026-09-23. Authority: DEC-010 through DEC-014 in [`decisions/decision_
 | Preparation workflow | Bounded, outcome-based preparation is the default for meetings, classes, presentations, tests, and deadlines. Protect sleep and preserve regular time for exercise, meals, chores, social life, and personal downtime; reduce scope rather than letting preparation expand indefinitely. |
 | Active working workbooks | Keep a deliberately small active set: `PhD_Preparation_Guidelines_and_Templates.xlsx`, `Kummerfeld_Meeting_2026-09-24.xlsx`, and `IHI_Fellowship_Progress_Tracker_Sep2026_CURRENT_v3.xlsx` in the NLP Library Active folder. |
 | Archive lifecycle | Completed task workbooks are distilled for current relevance and preserved under the NLP Library Archive hierarchy. Historical artifacts remain retrievable and do not stay active merely because they contain useful background. |
+| Tool allocation | Chat is the default for non-coding work and straightforward coding; Codex is reserved preferentially for complex/repository-scale software work; Work is reserved for autonomous multi-step browser/desktop/repetitive delegated workflows. |
 
 ## Decision-oriented workflow
 
@@ -85,6 +86,16 @@ Use DEC-013 as the default planning rule for PhD preparation.
 - Protect sleep by default and preserve recurring space for exercise, meals, chores, social activity, and personal downtime.
 - Evaluate preparation by whether the user can perform the required task, not by the number of hours spent.
 - Exact hour caps remain task-specific and may be revised from experience; they are not yet globally fixed.
+
+## Chat / Codex / Work allocation
+
+Use DEC-015 as the default tool-selection rule.
+
+- Prefer Chat for research discussion, source/file work, planning, analysis, writing, spreadsheets, meetings, and straightforward coding.
+- Prefer Codex when repository-scale implementation, testing, debugging, refactoring, or substantial software engineering is the main task.
+- Prefer Work when autonomy, browser/desktop interaction, repetitive multi-step execution, or a long delegated workflow is the main source of value.
+- Do not use Work merely because a task is intellectually difficult, and do not use Codex merely because a task contains code.
+- Short-term capacity objective: before 2026-10-03, use one deliberate high-value Work run and one deliberate high-value Codex run so the user's reported remaining reset is not wasted.
 
 ## Project communication preference
 
