@@ -1,6 +1,6 @@
 # Current project state and next decisions
 
-Updated: 2026-09-21. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, and the project-wide communication preference described below.
+Updated: 2026-09-23. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/decision_log.md`](decisions/decision_log.md). These entries record the user's approval of clearer tool ownership, persistent workspaces, a lighter decision-oriented process, open-ended topic discovery without removing existing directions, and the project-wide communication preference described below.
 
 ## What is current
 
@@ -17,6 +17,7 @@ Updated: 2026-09-21. Authority: DEC-010, DEC-011, and DEC-012 in [`decisions/dec
 | Current authorized mode | Open-ended horizon scanning, concise evidence comparison, faculty feedback, and bounded pilot design |
 | Current canonical ranking | None; `decisions/current_rankings.md` is a historical preliminary ranking, not the active eight-direction ranking |
 | Repository visibility | Not changed; private-workspace separation remains a distinct access-control task |
+| Faculty / independent-study coordination | Erich Kummerfeld replied on 2026-09-22 and asked for availability Thursday afternoon or Friday morning to discuss. A 2-credit independent study with him remains a possibility, not an approved arrangement. |
 | Grammar/writing corrections in this project | Disabled by default across all chats unless the user explicitly asks to resume them |
 
 ## Decision-oriented workflow
@@ -66,6 +67,8 @@ Grammar, spelling, punctuation, fluency, and writing-correction sections are dis
 ## Next checkpoint
 
 Complete local workspace synchronization under the new names. Then conduct outside-in evidence exploration and compare a bounded subset of newcomers with incumbents. Existing packets and reviews remain available as research inputs, not a closed menu. Any specific scientific amendment, candidate selection, visibility change, or sensitive publication still requires an explicit decision.
+
+Near-term faculty coordination: reply to Erich Kummerfeld with availability for Thursday afternoon or Friday morning and use the meeting to assess both the possible 2-credit independent study and substantive overlap with his current work. No independent-study arrangement has yet been approved.
 
 ## Navigation
 
