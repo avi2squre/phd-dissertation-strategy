@@ -164,3 +164,18 @@ Maintain one reusable general preparation workbook for cross-task principles. Cr
 **Rationale:** The user wants artifacts to serve their decision/execution purpose rather than becoming unused repositories. Distilling completed work before archiving preserves relevant knowledge while reducing clutter, duplicated preparation, and the tendency to treat historical task documents as still-current requirements.
 
 **Scope:** Archiving does not delete source evidence, rewrite history, or make extracted summaries more authoritative than their underlying sources. When historical nuance matters, retrieve the archived artifact or primary source. Specific research records governed by other provenance rules remain subject to those rules.
+
+
+---
+
+## DEC-015 — Allocate Chat, Codex, and Work by comparative advantage
+
+**Status:** ACCEPTED, 2026-09-23, by the user in the project conversation.
+
+**Decision:** Use ordinary Chat as the default execution environment for non-coding work and for straightforward or low-complexity coding tasks. Use Codex preferentially for complex, repository-scale, implementation-heavy, debugging, testing, refactoring, and other substantial software-engineering work. Use Work selectively for tasks whose value comes from autonomous multi-step execution, cloud-browser/desktop interaction, repetitive external workflows, or long-running delegated work rather than merely from task complexity.
+
+Do not spend scarce Work capacity on tasks that Chat can complete effectively, and do not route simple coding to Codex by default merely because code is involved.
+
+**Rationale:** Chat can already handle a broad range of research, planning, files, spreadsheets, writing, analysis, and lightweight coding efficiently. Codex and Work are more valuable when their specialized execution environments materially improve the task. The user wants to conserve limited Work/Codex capacity while aggressively using Chat for the majority of PhD work.
+
+**Short-term exception:** The user reports one remaining usage reset that expires on 2026-10-03 and intends to make one deliberate high-value Work run and one deliberate high-value Codex run before that date so the reset is not wasted. This is a temporary capacity-management objective, not a change to the long-term allocation rule.
