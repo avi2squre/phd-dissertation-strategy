@@ -147,3 +147,20 @@ The default workflow should protect sleep and leave regular room for exercise, m
 **Rationale:** The user explicitly identified a recurring pattern in which perceived productivity is tied to hours spent, creating panic when available time is shorter than the internally estimated preparation requirement. The user wants a more sustainable workflow that improves academic performance while reducing burnout risk and preserving a functional life outside PhD work.
 
 **Scope:** This establishes the governing preparation principle, not fixed universal hour caps for every task. Exact time budgets, readiness criteria, and task-specific checklists may be adapted to the stakes, novelty, and deliverable, and should be revised from experience rather than from anxiety alone.
+
+
+---
+
+## DEC-014 — Keep a small active working set and archive completed task artifacts after distillation
+
+**Status:** ACCEPTED, 2026-09-23, by the user in the project conversation.
+
+**Decision:** Use an explicit active/archive lifecycle for task-specific PhD artifacts. Keep only documents that are currently needed for immediate execution in the active working set. When a meeting, planning episode, or other bounded task is completed, first extract the information that remains relevant to current decisions, short-term work, or reusable methods; then preserve the full historical artifact in an archive rather than continuing to use it as an active workspace.
+
+Maintain one reusable general preparation workbook for cross-task principles. Create bounded task-specific workbooks by selecting only the relevant elements from that general template and current evidence. Do not repeatedly accumulate large meeting dossiers that remain active after their decision purpose has ended.
+
+**Current implementation:** The active workbook set is the general PhD preparation guide, the September 24 Kummerfeld meeting workbook, and the current fellowship tracker. The Simon meeting workbooks and superseded fellowship tracker versions are preserved under the NLP Library archive hierarchy. Because Project attachments cannot currently be moved or detached through the available file-management tool, archive copies are preserved in Library even when an older Project attachment may remain visible in the Project file surface.
+
+**Rationale:** The user wants artifacts to serve their decision/execution purpose rather than becoming unused repositories. Distilling completed work before archiving preserves relevant knowledge while reducing clutter, duplicated preparation, and the tendency to treat historical task documents as still-current requirements.
+
+**Scope:** Archiving does not delete source evidence, rewrite history, or make extracted summaries more authoritative than their underlying sources. When historical nuance matters, retrieve the archived artifact or primary source. Specific research records governed by other provenance rules remain subject to those rules.
