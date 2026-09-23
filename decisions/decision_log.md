@@ -179,3 +179,18 @@ Do not spend scarce Work capacity on tasks that Chat can complete effectively, a
 **Rationale:** Chat can already handle a broad range of research, planning, files, spreadsheets, writing, analysis, and lightweight coding efficiently. Codex and Work are more valuable when their specialized execution environments materially improve the task. The user wants to conserve limited Work/Codex capacity while aggressively using Chat for the majority of PhD work.
 
 **Short-term exception:** The user reports one remaining usage reset that expires on 2026-10-03 and intends to make one deliberate high-value Work run and one deliberate high-value Codex run before that date so the reset is not wasted. This is a temporary capacity-management objective, not a change to the long-term allocation rule.
+
+
+---
+
+## DEC-016 — Keep meeting-preparation spreadsheets compact and reference-only
+
+**Status:** ACCEPTED, 2026-09-23, by the user in the project conversation.
+
+**Decision:** For ordinary professor/advisor meetings, use Chat as the primary collaborative preparation environment. Task-specific meeting spreadsheets should be compact reference artifacts rather than comprehensive preparation repositories. Default to approximately 3–4 tabs covering: (1) a one-page meeting brief and readiness/stop rules; (2) only the most decision-relevant faculty/research-overlap facts and bounded readings; (3) prioritized questions plus anticipated questions/answer anchors; and (4) meeting notes, decisions, and next actions.
+
+Do not reproduce the earlier Simon-style multi-tab dossier unless a future meeting's stakes or complexity clearly justify it. A spreadsheet should support the conversation, not become homework that expands preparation time.
+
+**Rationale:** The user found the earlier several-tab meeting workbook intimidating and wants to prepare interactively with Chat while using the spreadsheet only as a quick reference. This implements DEC-013's bounded-preparation rule and DEC-014's small-active-set/artifact-lifecycle rule.
+
+**Current application:** The September 24 Kummerfeld meeting workbook should be simplified accordingly. The earlier larger Kummerfeld draft remains provisional until the compact replacement artifact is actually completed and verified.
